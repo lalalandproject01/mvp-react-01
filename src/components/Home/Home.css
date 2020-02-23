@@ -1,0 +1,6 @@
+section .Search {
+    min-height: 800px;
+    -ms-flex-line-pack: start;
+    align-content: start;
+    padding-bottom: 72px;
+}
